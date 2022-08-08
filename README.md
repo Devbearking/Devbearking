@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devbearking
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning Python, Web development, frontend and Backend
-- 💞️ I’m looking to collaborate on Web or backend projects with Python.
+- 💞️ I’m looking to collaborate on Web projects.
 - 📫 How to reach me https://www.linkedin.com/in/deyvid-razsukanov-a2669a22a/
 
 <!---
